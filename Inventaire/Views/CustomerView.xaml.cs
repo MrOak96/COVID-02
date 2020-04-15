@@ -4,7 +4,7 @@ using System.Windows;
 
 namespace Inventaire
 {
-    //Petite modification pour test de branche
+    //Petite modification pour test de branche.
 
     /// <summary>
     /// Interaction logic for MainWindow.xaml
